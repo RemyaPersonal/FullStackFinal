@@ -31,7 +31,8 @@ INSTRUCTIONS TO RUN:
    > http://localhost:<port>/swagger
 # vaccinationDrive
 #how to run react
-#code . 
+#code 
+#npm install 
 #npm run dev
 
 AUTHENTICATION:
