@@ -1,0 +1,172 @@
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\appsettings.json
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.staticwebassets.endpoints.json
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.exe
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.deps.json
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.runtimeconfig.json
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.pdb
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.csproj.AssemblyReference.cache
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.AssemblyInfoInputs.cache
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.AssemblyInfo.cs
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.csproj.CoreCompileInputs.cache
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\scopedcss\bundle\SchoolVaccinationPortalApi.styles.css
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.SchoolVaccinationPortalApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.SchoolVaccinationPortalApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SchoolVaccinationPortalApi.props
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SchoolVaccinationPortalApi.props
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SchoolVaccinationPortalApi.props
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVa.DBFD3DE5.Up2Date
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\refint\SchoolVaccinationPortalApi.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.pdb
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.genruntimeconfig.cache
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\ref\SchoolVaccinationPortalApi.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DataSource.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DTO.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SqlHelper.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DataSource.pdb
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DTO.pdb
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SqlHelper.pdb
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\appsettings.Development.json
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\appsettings.json
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.staticwebassets.endpoints.json
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.exe
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.deps.json
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.runtimeconfig.json
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.pdb
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DataSource.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DTO.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SqlHelper.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DataSource.pdb
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DTO.pdb
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SqlHelper.pdb
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.csproj.AssemblyReference.cache
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.AssemblyInfoInputs.cache
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.AssemblyInfo.cs
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.csproj.CoreCompileInputs.cache
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.MvcApplicationPartsAssemblyInfo.cache
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\scopedcss\bundle\SchoolVaccinationPortalApi.styles.css
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.SchoolVaccinationPortalApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.SchoolVaccinationPortalApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SchoolVaccinationPortalApi.props
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SchoolVaccinationPortalApi.props
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SchoolVaccinationPortalApi.props
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVa.DBFD3DE5.Up2Date
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\refint\SchoolVaccinationPortalApi.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.pdb
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.genruntimeconfig.cache
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\ref\SchoolVaccinationPortalApi.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.sourcelink.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\appsettings.Development.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\appsettings.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.exe
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.deps.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.runtimeconfig.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SchoolVaccinationPortalApi.pdb
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DataSource.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DTO.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SqlHelper.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DataSource.pdb
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\DTO.pdb
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\bin\Debug\net8.0\SqlHelper.pdb
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.csproj.AssemblyReference.cache
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.AssemblyInfoInputs.cache
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.AssemblyInfo.cs
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.csproj.CoreCompileInputs.cache
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.MvcApplicationPartsAssemblyInfo.cs
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.MvcApplicationPartsAssemblyInfo.cache
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.sourcelink.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.build.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.development.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.SchoolVaccinationPortalApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SchoolVaccinationPortalApi.props
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SchoolVaccinationPortalApi.props
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SchoolVaccinationPortalApi.props
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\staticwebassets.pack.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\scopedcss\bundle\SchoolVaccinationPortalApi.styles.css
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVa.DBFD3DE5.Up2Date
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\refint\SchoolVaccinationPortalApi.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.pdb
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\SchoolVaccinationPortalApi.genruntimeconfig.cache
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SchoolVaccinationPortalApi\obj\Debug\net8.0\ref\SchoolVaccinationPortalApi.dll

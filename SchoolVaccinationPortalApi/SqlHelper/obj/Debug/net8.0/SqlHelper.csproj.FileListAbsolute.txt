@@ -1,0 +1,37 @@
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\bin\Debug\net8.0\SqlHelper.deps.json
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\bin\Debug\net8.0\SqlHelper.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\bin\Debug\net8.0\SqlHelper.pdb
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.csproj.AssemblyReference.cache
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.AssemblyInfoInputs.cache
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.AssemblyInfo.cs
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.csproj.CoreCompileInputs.cache
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\refint\SqlHelper.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.pdb
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\ref\SqlHelper.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\bin\Debug\net8.0\SqlHelper.deps.json
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\bin\Debug\net8.0\SqlHelper.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\bin\Debug\net8.0\SqlHelper.pdb
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.csproj.AssemblyReference.cache
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.AssemblyInfoInputs.cache
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.AssemblyInfo.cs
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.csproj.CoreCompileInputs.cache
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\refint\SqlHelper.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.pdb
+D:\ReactAppilication\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\ref\SqlHelper.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\bin\Debug\net8.0\SqlHelper.deps.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\bin\Debug\net8.0\SqlHelper.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\bin\Debug\net8.0\SqlHelper.pdb
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.csproj.AssemblyReference.cache
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.AssemblyInfoInputs.cache
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.AssemblyInfo.cs
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.csproj.CoreCompileInputs.cache
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.sourcelink.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\refint\SqlHelper.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\SqlHelper.pdb
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\SqlHelper\obj\Debug\net8.0\ref\SqlHelper.dll

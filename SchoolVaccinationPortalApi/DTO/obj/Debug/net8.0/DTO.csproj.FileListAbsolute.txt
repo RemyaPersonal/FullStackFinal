@@ -1,0 +1,35 @@
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\100939\source\repos\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\ref\DTO.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\bin\Debug\net8.0\DTO.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\bin\Debug\net8.0\DTO.pdb
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.pdb
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\ref\DTO.dll
+D:\ReactAppilication\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\bin\Debug\net8.0\DTO.deps.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\bin\Debug\net8.0\DTO.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\bin\Debug\net8.0\DTO.pdb
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\refint\DTO.dll
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\DTO.pdb
+F:\MTech\Second Semester\FULL STACK\ASSIGNMENT PRACTICAL\SchoolVaccinationPortalApi\DTO\obj\Debug\net8.0\ref\DTO.dll
